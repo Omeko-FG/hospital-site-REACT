@@ -1,4 +1,4 @@
-![HOSPITAL](https://github.com/Omeko-FG/hospital-site-REACT/blob/main/Video_230602131356.mp4)
+![Alt Text](https://github.com/Omeko-FG/hospital-site-REACT/blob/main/Video_230602131356.mp4)
 
 
 <h1>HOSPİTAL & APPOİNTMENT SİTE<h1/>
