@@ -10,7 +10,8 @@
 3. Oluşmuş randevuları düzenleyebilecek.
 4. Randevların yapılıp yapılmadığını işaretleyebilecek.
 5. Hastane hakkında fikir sahibi olabilecek.
-6. Fikir ve görüşlerini iletebilecek.<p>
+6. Fikir ve görüşlerini iletebilecek.
+7. Kullanıcı authentication işlemleri kontrol edilecek.<p>
 <br/>
 <H2>Kullandığım Teknolojiler<H2/>
 <p>
@@ -27,7 +28,8 @@ REACT - MUI - FİREBASE - REDUX
 3. Will be able to organize the created appointments.
 4. Will be able to mark whether appointments are made or not.
 5. Can have an idea about the hospital.
-6. Will be able to convey ideas and opinions.<p>
+6. Will be able to convey ideas and opinions.
+7. User authentication processes will be checked.<p>
 <br/>
 <H2>Technologies I Use<H2/>
 <p>
